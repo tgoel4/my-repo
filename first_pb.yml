@@ -1,5 +1,5 @@
 ---
-- name: First basic v4 Playbook
+- name: First basic v5 Playbook
   hosts: 192.168.1.10
   tasks:
    - debug:
